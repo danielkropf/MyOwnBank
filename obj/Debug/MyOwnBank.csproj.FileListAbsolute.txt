@@ -1,0 +1,9 @@
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\bin\Debug\MyOwnBank.exe.config
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\bin\Debug\MyOwnBank.exe
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\bin\Debug\MyOwnBank.pdb
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.Form1.resources
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.exe
+C:\Users\Daniel\Desktop\Trabalhos\MyOwnBank\MyOwnBank\obj\Debug\MyOwnBank.pdb
