@@ -357,6 +357,7 @@
 			this.quantTotal100Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal100Reais.TabIndex = 32;
 			this.quantTotal100Reais.Text = "Quantidade: 0";
+			this.quantTotal100Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal50Reais
 			// 
@@ -366,6 +367,7 @@
 			this.quantTotal50Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal50Reais.TabIndex = 31;
 			this.quantTotal50Reais.Text = "Quantidade: 0";
+			this.quantTotal50Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal20Reais
 			// 
@@ -375,6 +377,7 @@
 			this.quantTotal20Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal20Reais.TabIndex = 30;
 			this.quantTotal20Reais.Text = "Quantidade: 0";
+			this.quantTotal20Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal10Reais
 			// 
@@ -384,6 +387,7 @@
 			this.quantTotal10Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal10Reais.TabIndex = 29;
 			this.quantTotal10Reais.Text = "Quantidade: 0";
+			this.quantTotal10Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal5Reais
 			// 
@@ -393,6 +397,7 @@
 			this.quantTotal5Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal5Reais.TabIndex = 28;
 			this.quantTotal5Reais.Text = "Quantidade: 0";
+			this.quantTotal5Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal2Reais
 			// 
@@ -402,6 +407,7 @@
 			this.quantTotal2Reais.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal2Reais.TabIndex = 27;
 			this.quantTotal2Reais.Text = "Quantidade: 0";
+			this.quantTotal2Reais.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal1Real
 			// 
@@ -411,6 +417,7 @@
 			this.quantTotal1Real.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal1Real.TabIndex = 26;
 			this.quantTotal1Real.Text = "Quantidade: 0";
+			this.quantTotal1Real.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal50Cents
 			// 
@@ -420,6 +427,7 @@
 			this.quantTotal50Cents.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal50Cents.TabIndex = 25;
 			this.quantTotal50Cents.Text = "Quantidade: 0";
+			this.quantTotal50Cents.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal25Cents
 			// 
@@ -429,6 +437,7 @@
 			this.quantTotal25Cents.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal25Cents.TabIndex = 24;
 			this.quantTotal25Cents.Text = "Quantidade: 0";
+			this.quantTotal25Cents.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal10Cents
 			// 
@@ -438,6 +447,7 @@
 			this.quantTotal10Cents.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal10Cents.TabIndex = 23;
 			this.quantTotal10Cents.Text = "Quantidade: 0";
+			this.quantTotal10Cents.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// quantTotal5Cents
 			// 
@@ -447,6 +457,7 @@
 			this.quantTotal5Cents.Size = new System.Drawing.Size(74, 13);
 			this.quantTotal5Cents.TabIndex = 22;
 			this.quantTotal5Cents.Text = "Quantidade: 0";
+			this.quantTotal5Cents.TextChanged += new System.EventHandler(this.quantTotalChanged);
 			// 
 			// action5Cents
 			// 
@@ -787,7 +798,7 @@
 			this.valorTotal5Cents.Name = "valorTotal5Cents";
 			this.valorTotal5Cents.Size = new System.Drawing.Size(81, 13);
 			this.valorTotal5Cents.TabIndex = 55;
-			this.valorTotal5Cents.Text = "Valor: R$ 00,00";
+			this.valorTotal5Cents.Text = "Valor: R$ 00.00";
 			// 
 			// Form1
 			// 
